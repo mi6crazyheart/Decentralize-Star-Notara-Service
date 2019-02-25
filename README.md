@@ -1,5 +1,4 @@
-## Project Title
-Decentralize Star Notara Service. 
+## Decentralize Star Notara Service
 
 ### Getting Started
 In this project, we've built a Star Notary Service by using ERC 721 standard for creating Non-Fungible tokens. Here a user can use the following features -
