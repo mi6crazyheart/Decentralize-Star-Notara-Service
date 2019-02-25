@@ -23,10 +23,15 @@ In this project, we've built a Star Notary Service by using ERC 721 standard for
     
 ### Built With 
 [truffle](https://truffleframework.com/) Development & testing framework.
+
 [truffle boxes](https://truffleframework.com/boxes) Provide easy to use boilerplates codes for faster development.
+
 [openzeppelin](https://openzeppelin.org/) Framework for building Smart Contracts using Solidity.
+
 [Mocha](https://mochajs.org/) Javascript testing framework.
+
 [Chai](https://www.chaijs.com/) Javascript assertion library.
+
     
 ### Author
 * **Suresh Kumar Majhi** - [GitHub](https://github.com/mi6crazyheart)    
